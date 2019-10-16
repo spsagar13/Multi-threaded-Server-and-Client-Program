@@ -9,7 +9,7 @@ Kindly follow the below instruction to successfully run the code.
 #Precondition
 The code is written in Python, version : Python 3.7.4
 
-1. Use command prompt to access the directory 1001348700_SagarSurendran
+1. Use command prompt to access the directory Multi-threaded-Server-and-Client-Program
 	Make sure that you have the following files in it
 	1. server.py
 	2. client.py
